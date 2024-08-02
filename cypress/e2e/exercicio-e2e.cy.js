@@ -17,6 +17,6 @@ context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
       //TODO: Coloque todo o fluxo de teste aqui, considerando as boas práticas e otimizações
       
   });
-
+teste
 
 })
